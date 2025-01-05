@@ -1,0 +1,25 @@
+{
+    "mysql": {
+        "host": "",
+        "port": 3306,
+        "database": "",
+        "user": "",
+        "password": ""
+    },
+    "mysql_local": {
+        "host": "",
+        "database": "",
+        "user": "",
+        "password": ""
+    },
+    "dynamodb": {
+        "region": "",
+        "accessKeyId": "",
+        "secretAccessKey": ""
+    },
+    "ssh": {
+        "host": "",
+        "user": "",
+        "key_path": "./config/[your_pem_file_name].pem"
+    }
+}
